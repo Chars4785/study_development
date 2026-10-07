@@ -7,6 +7,7 @@
 | 주제 | 폴더 | 상태 |
 |------|------|------|
 | Kubernetes | [`kubernetes/`](./kubernetes) | 🏃 진행 중 |
+| Proxy | [`proxy/`](./proxy) | 🏃 진행 중 |
 
 ## 정리 규칙
 
