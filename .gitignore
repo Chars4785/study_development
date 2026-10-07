@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# kubeconfig / secrets (실습 중 실수로 커밋 방지)
+kubeconfig
+*.kubeconfig
+*.key
+*.pem
+secret*.yaml
+.env
